@@ -1,0 +1,17 @@
+.image1{
+    height: 10cm;
+    width: 12cm;
+    margin-left: 1cm;
+}
+header{
+    display:block;
+    margin-left: 12cm;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.name{
+    margin-left: 2cm;
+}

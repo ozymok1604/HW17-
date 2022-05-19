@@ -1,0 +1,22 @@
+.block{
+    border:1px solid gray;
+    height: 120px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.symbol{
+    font-weight: bold;
+}
+.app{
+    display: block;
+    margin-left: 17.5cm;
+}
+/* .inform{
+    height: 140px;
+    background-color: blue;
+}
+ */
